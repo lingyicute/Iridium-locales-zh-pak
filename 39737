@@ -1,0 +1,1 @@
+DnsOverHttpsTemplates 值不相关，因此不会被使用，除非 DnsOverHttpsMode 政策设为“'automatic'”或“'secure'”。

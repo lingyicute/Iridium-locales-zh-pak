@@ -1,0 +1,3 @@
+{COUNT, plural,
+     =1 {1 suggestion (device only)}
+     other {# suggestions (device only)}}

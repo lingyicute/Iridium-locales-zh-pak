@@ -1,0 +1,1 @@
+Block sites from using just-in-time compilation, using only interpreted JavaScript; less performant but more secure against security vulnerabilities.

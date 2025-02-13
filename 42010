@@ -1,0 +1,1 @@
+{TIME_DIMENSION,plural, =0{$1 分钟前}=1{$1 小时前}other{$1 天前}}

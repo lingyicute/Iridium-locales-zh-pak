@@ -1,0 +1,1 @@
+Allow sites to use just-in-time compilation; more performant but a constant source of security vulnerabilities.
