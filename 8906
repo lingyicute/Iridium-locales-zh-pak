@@ -1,3 +1,3 @@
 {NUM_SITES, plural,
-          =1 {Cromite removed permissions from 1 site}
-          other {Cromite removed permissions from {NUM_SITES} sites}}
+          =1 {Iridium removed permissions from 1 site}
+          other {Iridium removed permissions from {NUM_SITES} sites}}
